@@ -92,13 +92,13 @@ Intent: goodbye | Güven: 1.00
 Ekran Görüntüleri
 
 Chat Arayüzü
-![Chat Arayüzü](screenshots/chat_ekrai.png)
+![Chat Arayüzü](screenshots/chat_ekrani.png)
 
 Veri Analizi Sekmesi
 ![Veri Analizi](screenshots/Intent_dagilimlari.png)
 
 Model Karşılaştırması
-![Model Karşılaştırması](screenshots/model_karsilastirma.png)
+![Model Karşılaştırması](screenshots/Model_karsilastirma.png)
 
 
 
