@@ -1,0 +1,181 @@
+intent,text
+greeting,Merhaba
+greeting,Selam
+greeting,İyi günler
+greeting,Nasılsınız
+greeting,Hey oradaki
+greeting,Herkese merhaba
+greeting,Size nasıl yardımcı olabilirim
+greeting,Hoşgeldiniz
+greeting,İyi akşamlar
+greeting,Günaydın
+greeting,Selamlar
+greeting,Merhabalar
+greeting,Herkese selam
+greeting,Nasıl gidiyor
+greeting,Hey
+greeting,Herkese iyi günler
+greeting,Selamün aleyküm
+greeting,Merhaba arkadaşlar
+greeting,İyi sabahlar
+greeting,Naber
+product_inquiry,Bu ürünün fiyatı nedir
+product_inquiry,Bu ürün hakkında bilgi alabilir miyim
+product_inquiry,Hangi renklerde mevcut
+product_inquiry,Bu ürünün özellikleri nelerdir
+product_inquiry,Stokta var mı
+product_inquiry,Bu ürün ne zaman gelecek
+product_inquiry,Benzer ürünler var mı
+product_inquiry,İndirimli ürünler hangileri
+product_inquiry,En çok satan ürünler
+product_inquiry,Yeni ürünler hangileri
+product_inquiry,Bu kategori hangi ürünleri içeriyor
+product_inquiry,Ürün karşılaştırması yapabilir misiniz
+product_inquiry,Bu marka hangi ürünleri var
+product_inquiry,Fiyat aralığı nedir
+product_inquiry,Bu ürünün garantisi var mı
+product_inquiry,Teknik özellikler nelerdir
+product_inquiry,Kullanıcı yorumları nasıl
+product_inquiry,Bu ürün için kampanya var mı
+product_inquiry,Benzer fiyatta alternatifler
+product_inquiry,Bu ürünün boyutları nedir
+order_status,Siparişim nerede
+order_status,Sipariş durumu ne
+order_status,Siparişim ne zaman gelecek
+order_status,Kargo takip numarası nedir
+order_status,Siparişim hazırlandı mı
+order_status,Teslimat tarihi ne zaman
+order_status,Siparişim yola çıktı mı
+order_status,Kargo firması hangisi
+order_status,Sipariş numarası ile sorgulama
+order_status,Siparişim hangi aşamada
+order_status,Teslimat adresi doğru mu
+order_status,Siparişim iptal edildi mi
+order_status,Sipariş onaylandı mı
+order_status,Kargo ücreti ne kadar
+order_status,Hızlı teslimat seçeneği var mı
+order_status,Siparişimi takip edebilir miyim
+order_status,Teslimat süresi ne kadar
+order_status,Sipariş detaylarını görebilir miyim
+order_status,Fatura bilgileri nerede
+order_status,Sipariş özetini görmek istiyorum
+cart_operations,Sepete ekle
+cart_operations,Sepetten çıkar
+cart_operations,Sepetimi göster
+cart_operations,Sepet boş mu
+cart_operations,Sepet toplamı ne kadar
+cart_operations,Sepeti temizle
+cart_operations,Sepette kaç ürün var
+cart_operations,Sepetimi güncellemek istiyorum
+cart_operations,Ürün adedini değiştir
+cart_operations,Sepete ürün eklemek istiyorum
+cart_operations,Sepetimi kontrol et
+cart_operations,Sepetteki ürünleri listele
+cart_operations,Sepetten ürün sil
+cart_operations,Favori ürünleri sepete ekle
+cart_operations,Sepete tekrar ekle
+cart_operations,Sepet içeriğini değiştir
+cart_operations,Sepetteki ürün miktarını artır
+cart_operations,Sepetteki ürün miktarını azalt
+cart_operations,Sepeti kaydet
+cart_operations,Sepeti paylaş
+payment_issues,Ödeme yapamıyorum
+payment_issues,Kredi kartım çalışmıyor
+payment_issues,Ödeme hata veriyor
+payment_issues,Hangi ödeme yöntemleri kabul ediliyor
+payment_issues,Taksit seçenekleri var mı
+payment_issues,PayPal ile ödeme yapabilir miyim
+payment_issues,Kapıda ödeme mümkün mü
+payment_issues,Ödeme güvenli mi
+payment_issues,Faturalı ödeme yapabilir miyim
+payment_issues,Ödeme onaylanmadı
+payment_issues,Para çekildi ama sipariş oluşmadı
+payment_issues,Yanlış tutar çekildi
+payment_issues,Ödeme geçmişimi görebilir miyim
+payment_issues,Otomatik ödeme nasıl iptal edilir
+payment_issues,Ödeme planı yapabilir miyim
+payment_issues,Kredi kartı bilgilerimi kaydetmek istiyorum
+payment_issues,Ödeme yapılırken hata aldım
+payment_issues,Banka kartı ile ödeme
+payment_issues,Havale ile ödeme yapabilir miyim
+payment_issues,Ödeme makbuzu nerede
+return_refund,İade etmek istiyorum
+return_refund,Para iadesi istiyorum
+return_refund,Ürün değişimi yapabilir miyim
+return_refund,İade süreci nasıl işliyor
+return_refund,İade kargo ücreti kim öder
+return_refund,İade koşulları nelerdir
+return_refund,Hangi ürünler iade edilebilir
+return_refund,İade süresi ne kadar
+return_refund,İade başvurusu nasıl yapılır
+return_refund,İadem ne zaman işleme alınır
+return_refund,Para iadem ne zaman hesabıma yatar
+return_refund,Hasarlı ürün aldım
+return_refund,Yanlış ürün geldi
+return_refund,Ürün beğenmedim
+return_refund,Boyut uygun değil
+return_refund,İade kargo kodu ver
+return_refund,İade durumu sorgulama
+return_refund,İade başvurum onaylandı mı
+return_refund,İade belgesi nasıl alınır
+return_refund,Garanti kapsamında değişim
+shipping_info,Kargo ne kadar sürer
+shipping_info,Ücretsiz kargo sınırı nedir
+shipping_info,Hangi kargo firmaları ile çalışıyorsunuz
+shipping_info,Aynı gün teslimat var mı
+shipping_info,Kargo ücreti ne kadar
+shipping_info,Farklı adrese teslimat yapabilir miyim
+shipping_info,Kargo takip nasıl yapılır
+shipping_info,Hızlı teslimat seçenekleri
+shipping_info,Kargo sigortalı mı
+shipping_info,Teslimat saatleri nelerdir
+shipping_info,Hafta sonu teslimat yapılır mı
+shipping_info,Kargo hasarlı gelirse ne yapmalıyım
+shipping_info,Adres değişikliği yapabilir miyim
+shipping_info,Kargo gönderi bilgileri
+shipping_info,Teslimat noktaları nereler
+shipping_info,Kargo firması değiştirebilir miyim
+shipping_info,Toplu kargo indirimi var mı
+shipping_info,Kargo gecikirse ne olur
+shipping_info,Özel kargo talimatları verebilir miyim
+shipping_info,Kargo paketleme nasıl yapılır
+goodbye,Hoşçakal
+goodbye,Görüşürüz
+goodbye,İyi günler
+goodbye,Teşekkürler
+goodbye,Yardımınız için sağolun
+goodbye,Allahaısmarladık
+goodbye,İyi akşamlar
+goodbye,Hoşça kal
+goodbye,Görüşmek üzere
+goodbye,Baybay
+goodbye,Hadi hoşçakal
+goodbye,Güle güle
+goodbye,İyi geceler
+goodbye,Sonra görüşürüz
+goodbye,Yardımın için teşekkürler
+goodbye,Elveda
+goodbye,Kendinize iyi bakın
+goodbye,Herkese selam söyle
+goodbye,Yarın görüşürüz
+goodbye,Bitiriyorum konuşmayı
+complaint,Şikayetim var
+complaint,Memnun değilim
+complaint,Sorun yaşıyorum
+complaint,Çok kötü hizmet
+complaint,Müşteri hizmetleri berbat
+complaint,Bu çok uzun sürdü
+complaint,Site çalışmıyor
+complaint,Sürekli hata alıyorum
+complaint,Çok pahalı
+complaint,Kalitesiz ürün
+complaint,Aldığım ürün kırık geldi
+complaint,Hiç beğenmedim
+complaint,Tam bir hayal kırıklığı
+complaint,Rezalet bir durum
+complaint,Paramın hakkını veremedim
+complaint,Çok kötü deneyim
+complaint,Bir daha alışveriş yapmam
+complaint,Arkadaşlarıma önermem
+complaint,Müşteri memnuniyeti sıfır
+complaint,Vaatlerinizi tutmuyorsunuz 
